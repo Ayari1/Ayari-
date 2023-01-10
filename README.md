@@ -1,3 +1,4 @@
+![logo](https://github.com/Ayari1/Ayari-/blob/main/git.gif)
 <h1 align="center">Hi 👋, I'm AYARI Marwen</h1>
 <h3 align="center">I am a student</h3>
 
